@@ -1,0 +1,10 @@
+# 任何真实配置与密钥都不要提交
+config.json
+*.log
+*.icns
+*.app/
+__pycache__/
+.DS_Store
+规则.txt
+流量账本.json
+体检历史.json
